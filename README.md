@@ -1,6 +1,28 @@
-# GetSentiment 
-  GetSentiment is a sentiment analysis web app based on machine learning algorithm which helps users to get the ability to decide whether to watch a YouTube video or not. It reads topmost comments from a video and apply the algorithm which is trained on multiple datasets like IMDB , Twitter Tweets Sentiment and various independent datasets. Concluding , it helps user get back their dislike counter through comments.
-***
+This is group project by <br>1. Mudit Jain(101903673) <br>2. Sushant Saini(101917157) <br>
+
+# TITLE : GetSentiment : Sentiment Analysis
+
+## 1.Methodology
+<img width="88" alt="image" src="https://user-images.githubusercontent.com/59145085/208239571-9aa9209d-920b-4b4c-9ecc-f1f9b2be2b84.png">
+
+
+
+## 2.Description
+GetSentiment is a sentiment analysis web app based on machine learning algorithm which helps users to get the ability to decide whether to watch a YouTube video or not. It reads topmost comments from a video and apply the algorithm which is trained on multiple datasets like IMDB , Twitter Tweets Sentiment and various independent datasets. Concluding , it helps user get back their dislike counter through comments.
+
+Best Model : Naive Bayes Classifier
+<br>Best Accuracy : 91.56%
+
+## 3.Input/Output
+Input: Link of YouTube Video
+<br>Output: Sentiment of the Video
+
+## 4.Live Link
+Link : [getsentiments.herokuapp.com](https://getsentiments.herokuapp.com/)
+
+## 5.Screenshot of Interface
+<img width="1467" alt="image" src="https://user-images.githubusercontent.com/59145085/208239195-4d3967e7-a569-4585-a21b-cc22d6310aa7.png">
+
 
 ## Motivation
   As, it was my final project CS50w, I want to give my best. So, I decided to brainstrom ideas , browse ideas but didn't get any. Finally I decided to make stock market prediction app which required to have the knowledge of ML. So, I spend whole ***1 year*** going through courses , completing cs50ai , attending webinars to have the knowledge and hold of the subject. **Then, when I went back to making my web app I saw Youtube removing dislike counter finding it perfect opportunity to get back what the people actually want ,including me😅**
@@ -47,6 +69,9 @@
 1. Computer view-
          ![image1](./photos/1.png) ![image2](./photos/2.png) 
 2. Mobile view-
-         ![image4](./photos/4.jpg) ![image7](./photos/7.jpg) 
+         ![image4](./photos/4.jpg) ![image7](./photos/7.jpg)
+3. Chrome Extension-
+         ![image](https://user-images.githubusercontent.com/67876213/208265635-c2e5b47b-436c-4c1b-8c51-3709ddac3c88.png)
+
 ***
 ***
